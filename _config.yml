@@ -47,7 +47,7 @@ address:
   - line: Turkey
 
 # Credits content
-credits: 'Made with <3'
+credits: 'Made with :heart:'
 
 # Build settings
 markdown: kramdown
