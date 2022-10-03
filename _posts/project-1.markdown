@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2022-10-03
-img: 1 1440p.png
+img: hypercasual starter kit.png
 alt: image-alt
 project-date: October 2022
 client: Unity Asset Store
