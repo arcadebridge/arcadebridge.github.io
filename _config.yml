@@ -28,7 +28,7 @@ color:
   primary: 5C5A57 #80B3FF
   primary-rgb: "92, 90, 87" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  secondary-dark: 7796CB #A2122F
 
 # Footer settings
 footer:
@@ -47,7 +47,7 @@ address:
   - line: Turkey
 
 # Credits content
-credits: 'Made with :heart:'
+credits: 'love, peace and respect'
 
 # Build settings
 markdown: kramdown
