@@ -5,9 +5,9 @@ date: 2022-10-03
 img: "hypercasual starter kit.png"
 alt: image-alt
 project-date: October 2022
-client: <a href="https://assetstore.unity.com/packages/templates/systems/hypercasual-arcade-idle-starter-kit-234142">
-      <b style="color:Tomato;">Unity Asset Store</b>
-    </a>
+client: Unity Asset Store
 category: Game Development
-description: Starter kit with useful tools like character controller, item modifier, inventory, save system and more...
+description: Starter kit with useful tools like character controller, item modifier, inventory, save system and more... <a href="https://assetstore.unity.com/packages/templates/systems/hypercasual-arcade-idle-starter-kit-234142">
+      <b style="color:Tomato;">link</b>
+    </a>
 ---
