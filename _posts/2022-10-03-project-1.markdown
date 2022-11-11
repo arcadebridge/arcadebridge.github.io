@@ -1,5 +1,5 @@
 ---
-title: Hypercasual Arcade Idle Starter Kit
+title: Starter Kit for hypercasual
 layout: default
 modal-id: 1
 img: "hypercasual starter kit.png"
