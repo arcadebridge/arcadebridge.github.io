@@ -1,7 +1,7 @@
 ---
 title: Exhibition Manager
 layout: default
-modal-id: 2
+modal-id: 1
 img: "exhibition manager.png"
 alt: image-alt
 client: Apple App Store
