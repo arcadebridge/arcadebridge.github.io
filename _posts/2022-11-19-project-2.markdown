@@ -2,7 +2,7 @@
 title: Exhibition Manager
 layout: default
 modal-id: 2
-img: "hypercasual starter kit.png"
+img: "Exhibition Manager.png"
 alt: image-alt
 client: Apple App Store
 category: Game Development
