@@ -2,7 +2,7 @@
 title: Exhibition Manager
 layout: default
 modal-id: 2
-img: "Exhibition Manager.png"
+img: "exhibition manager.png"
 alt: image-alt
 client: Apple App Store
 category: Game Development
