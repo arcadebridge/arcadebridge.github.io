@@ -6,7 +6,7 @@ img: "exhibition manager.png"
 alt: image-alt
 client: Apple App Store
 category: Game Development
-description: Mobile game where you control a exhibition manager. It's in hypercasual/arcade idle genre, and I used my asset store asset for development... <a href="https://apps.apple.com/us/app/exhibition-manager/id6444536124">
+description: Mobile game where you control a exhibition manager. It's in hypercasual/arcade idle genre, arcade idle starter kit has been used for development... <a href="https://apps.apple.com/us/app/exhibition-manager/id6444536124">
       <b style="color:Tomato;">link</b>
     </a>
 ---
