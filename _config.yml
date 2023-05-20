@@ -1,57 +1,93 @@
-# Site settings
-title: Arcade Bridge
-email: thearcadebridge@gmail.com
-url: https://arcadebridge.github.io
-description: "We love games, so we make tools that alleviate the problems when you make one. Oh, also, we make games too!."
-keywords: "game, game making, game development, game tools, arcade bridge, arcade games, unity, c#"
-skills: "Game/Tool Development Studio"
-meta_author: Tulek Yusuf Enes
+title: Vonge
 
-# Google webmaster tools
-google_verify:
+plugins:
+  - jekyll-bookshop
+  - cloudcannon-jekyll-bookshop
+  - jekyll-sitemap
+  - jekyll/tagging
+  - jekyll-pagebreak
 
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+# Multiple bookshops can be used on one website,
+# or different production / staging locations.
+bookshop_locations:
+  - ../components
 
-# Contact form:
-# - static : pass through formspree.io to validate email sending
-# - disqus : replace contact form by disqus thread
-# - comment the line below if you want to stick with the default PHP contact form
-contact: static
+exclude:
+  - postcss.config.js
+  - node_modules
 
-# If you use disqus you need disqus shortname
-# https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+include:
+  - _cloudcannon
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: FF6542 #80B3FF
-  primary-rgb: "92, 90, 87" #"128,179,255"
-  secondary: 808A9F #FD6E8A
-  secondary-dark: 2C497F #A2122F
+# The rest of this array structure will be
+# populated by the bookshop-array-structures plugin.
+_array_structures:
+  content_blocks:
+    style: modal
 
-# Footer settings
-footer:
-  copyright: Arcade Bridge
-  social: Our Discord
-  credits: Love, Peace and Respect
+collections_dir: 'collections'
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: discord
-    url: https://discord.gg/Nx8kwSBAFb
+collections:
+  pages:
+    output: true
+    permalink: /:title/
+  projects:
+    output: true
+    permalink: /project/:slug
+  testimonials:
+    output: false
+  posts:
+    output: true
+    permalink: /blog/:slug
 
-# Credits content
-credits: ''
+cloudcannon:
+  collections:
+    pages:
+      _icon: 'wysiwyg'
+    projects:
+      _icon: 'work_outline'
+      _subtext_key: subtitle
+    testimonials:
+      _icon: 'format_quote'
+      _subtext_key: position
+      _enabled_editors:
+        - data
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+_collection_groups:
+  - heading: Content
+    collections:
+      - pages
+      - projects
+      - testimonials
+  - heading: Blogging
+    collections:
+      - posts
+      - drafts
+  - heading: Settings
+    collections:
+      - data
 
-#for posts
 defaults:
   - scope:
       path: ""
-      type: "posts"
     values:
-      permalink: ""
+      layout: default
+  - scope:
+      type: pages
+      path: _pages/index.html
+    values:
+      permalink: /
+  - scope:
+      type: projects
+    values:
+      layout: project
+  - scope:
+      type: posts
+    values:
+      layout: post
+
+
+# Tags
+tag_page_dir: tag
+tag_page_layout: tag_page
+tag_permalink_style: /:title
