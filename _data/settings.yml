@@ -19,8 +19,8 @@ projects:
 # Contact Section
 
 social:
+- {icon: 'discord',  link: 'https://discord.gg/Nx8kwSBAFb'}
 - {icon: 'twitter',   link: 'https://twitter.com/arcadebridge'}
-- {icon: 'envelope',  link: 'mailto:mailto:thearcadebridge@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
