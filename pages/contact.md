@@ -6,5 +6,5 @@ permalink: /contact
 
 # Contact Details
 
-Discord (preferably): https://discord.gg/Nx8kwSBAFb
-E-mail: thearcadebridge@gmail.com
+(Discord)[https://discord.gg/Nx8kwSBAFb] \n
+(E-mail)[thearcadebridge@gmail.com]

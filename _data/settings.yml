@@ -16,15 +16,6 @@ projects:
 - {name: 'Project Three', url: 'proj-3'}
 
 #-------------------------------
-# Contact Section
-
-social:
-- {icon: 'discord',  link: 'https://discord.gg/Nx8kwSBAFb'}
-- {icon: 'twitter',   link: 'https://twitter.com/arcadebridge'}
-
-# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
-
-#-------------------------------
 # SEO Section
 
 # NOTE: Providing SEO information will make this website more searchable on the internet.
