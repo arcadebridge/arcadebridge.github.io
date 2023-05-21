@@ -7,6 +7,6 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		   "Portfolio Jekyll Theme"
-description: "Powered by Jekyll and GitHub Pages"
-author:      "Paul Le"
+title:		   "Arcade Bridge"
+description: "We love playing games. We help you to release your next game faster, so we can play it!"
+author:      "Arcade Bridge"
