@@ -19,6 +19,6 @@ Ready to create the next gaming sensation? Let's talk!
 
 {% include image.html url="https://play.google.com/store/apps/details?id=com.begames.diggad" image="projects/proj-3/thumbnail.jpg" %}
 (assets/img/projects/proj-3/img0.jpeg)
-{% image="projects/proj-3/img1.jpeg" %}
-{% image="projects/proj-3/img2.jpeg" %}
-{% image="projects/proj-3/img3.jpeg" %}
+{% include image.html image="projects/proj-3/img1.jpeg" %}
+{% include image.html image="projects/proj-3/img2.jpeg" %}
+{% include image.html image="projects/proj-3/img3.jpeg" %}
