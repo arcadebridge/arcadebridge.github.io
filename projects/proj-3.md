@@ -2,8 +2,8 @@
 layout: post
 title: 'Client Works - Digga D'
 ---
-
-I recently collaborated with MVG Studios (formerly known as Be-Games), an England-based gaming company, to deliver a spectacular gaming experience.
+{% include image.html url="https://play.google.com/store/apps/details?id=com.begames.diggad" image="projects/proj-3/thumbnail.jpg" %}
+I recently collaborated with **MVG Studios** (formerly known as Be-Games), an England-based gaming company, to deliver a spectacular gaming experience.
 
 🎮 Game Design: I crafted the game concept, from the ground up, ensuring every detail was tailored for maximum engagement and enjoyment.
 
@@ -17,7 +17,7 @@ I recently collaborated with MVG Studios (formerly known as Be-Games), an Englan
 
 Ready to create the next gaming sensation? Let's talk!
 
-{% include image.html url="https://play.google.com/store/apps/details?id=com.begames.diggad" image="projects/proj-3/thumbnail.jpg" %}
+**Gameplay screenshots:**
 {% include image.html image="projects/proj-3/img1.jpeg" %}
 {% include image.html image="projects/proj-3/img2.jpeg" %}
 {% include image.html image="projects/proj-3/img3.jpeg" %}
