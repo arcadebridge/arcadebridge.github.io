@@ -2,8 +2,9 @@
 layout: post
 title: 'Hypercasual - Arcade Idle Starter Kit'
 ---
+![screenshot](/assets/img/projects/proj-2/idle-itemModifiers.jpg)
+[**Store Link**](https://assetstore.unity.com/packages/tools/game-toolkits/hypercasual-arcade-idle-starter-kit-234142) <br/>
 🕹️ Revolutionize Idle Game Development with **Hypercasual - Arcade Idle Starter Kit** 🚀
-{% include image.html url="https://assetstore.unity.com/packages/tools/game-toolkits/hypercasual-arcade-idle-starter-kit-234142" image="projects/proj-2/idle-itemModifiers.jpg" %}
 
 ⏱️ **Time-Saving Tools:** Our toolkit is a game-changer, offering a suite of resources that turbocharge your development. Say goodbye to long hours of coding and hello to rapid game creation.
 
