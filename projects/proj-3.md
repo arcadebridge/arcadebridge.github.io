@@ -2,7 +2,7 @@
 layout: post
 title: 'Client Works - Digga D'
 ---
-<iframe width="380" height="255" src="https://www.youtube.com/embed/kAXqUoOS7mI?si=TkUdSZE_xzTdzsgb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="260" height="400" src="https://www.youtube.com/embed/QNWon1sXIxY?si=_E74xJmObl_s6BQ_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [**Store Link**](https://play.google.com/store/apps/details?id=com.begames.diggad) <br/>
 
@@ -19,3 +19,5 @@ I recently collaborated with **MVG Studios** (formerly known as Be-Games), an En
 📦 **End-to-End Service:** From inception to execution, I handle it all, so you can sit back and watch your gaming dreams become a reality.
 
 Ready to create the next gaming sensation? Let's talk!
+
+<iframe width="380" height="255" src="https://www.youtube.com/embed/kAXqUoOS7mI?si=TkUdSZE_xzTdzsgb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
