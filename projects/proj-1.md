@@ -13,4 +13,4 @@ title: 'Hypercasual - Runner Starter Kit'
 
 🧰 **Clean, Extensible Code:** We've taken care of the technical details, providing you with clean, organized code for seamless extensibility. Customize and scale your games effortlessly.
 
-![screenshot](/projects/proj-1/runner-masterCount.jpg)
+![screenshot](/assets/img/projects/proj-1/runner-masterCount.jpg)
