@@ -6,5 +6,6 @@ permalink: /contact
 
 # Contact Details
 
-[Discord](https://discord.gg/Nx8kwSBAFb) <br/>
-E-mail: **thearcadebridge@gmail.com**
+You can find me on [LinkedIn](https://www.linkedin.com/in/ysftulek/) <br/>
+I'm also very active in [Discord](https://discord.gg/Nx8kwSBAFb) <br/>
+If you prefer good old way, here is my e-mail: **ysftulek@gmail.com**
