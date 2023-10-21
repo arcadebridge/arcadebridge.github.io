@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Exhibition Manager'
+title: 'Personal Project - Exhibition Manager'
 ---
 
 You are the manager of an exhibition center. Fight with monsters, collect eggs and exhibit them to earn money!
