@@ -6,7 +6,7 @@ permalink: /about
 
 # About Us
 
-🎮 Hello, I'm a passionate game developer, consultant, and creator who loves all things gaming!
+🎮 Hello, I'm a passionate game developer, consultant, and creator who loves all things about gaming! I'm working as a game developer mentor for [Game Circle](https://www.thegamecircle.com/en).
 
 🌍 **Diverse Experience:** I've had the privilege of working with game developers from around the world, which has given me a global perspective. This multicultural journey has taught me to create games that resonate with people of different backgrounds.
 
