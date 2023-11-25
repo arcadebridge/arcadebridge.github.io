@@ -4,6 +4,7 @@ title: 'Hypercasual - Runner Starter Kit'
 ---
 ![screenshot](/assets/img/projects/proj-1/runner-masterCount.jpg)
 [**Store Link**](https://assetstore.unity.com/packages/tools/game-toolkits/hypercasual-runner-starter-kit-249286) <br/>
+[**Documentation**](https://www.arcade-bridge.com/hypercasual-runner-website/) <br/>
 
 🏃 Supercharge Your Game Development with **Hypercasual - Runner Starter Kit** 🚀
 
