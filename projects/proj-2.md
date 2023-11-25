@@ -5,7 +5,6 @@ title: 'HyperCasual - Arcade Idle Engine'
 ![screenshot](/assets/img/projects/proj-2/idle-itemModifiers.jpg)
 [**Store Link**](https://assetstore.unity.com/packages/tools/game-toolkits/hypercasual-arcade-idle-starter-kit-234142) <br/>
 
-🌟 Unlocking Success with **HyperCasual - Arcade Idle Engine** 🚀
 
 📈 200+ Sold: More than 200 people now have our tool!
 
