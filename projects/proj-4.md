@@ -6,4 +6,4 @@ title: 'Hyper-Casual Games Portfolio'
 
 <br/>
 
-These are some of the hyper-casual games that I made in previous years. I have programmed all of them, involved in their art style with my artist friends and designed them.
+These are some of the games that I made in previous years. I have programmed all of them, involved in their art style with my artist friends, and designed them.
