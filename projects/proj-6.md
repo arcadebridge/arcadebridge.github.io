@@ -2,8 +2,8 @@
 layout: post
 title: 'Idle Muscle Up'
 ---
-<iframe width="560" height="315" src="https://play.google.com/store/apps/details?id=com.GameCircle.IdleMuscleUp&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+[**Store Link**](https://play.google.com/store/apps/details?id=com.GameCircle.IdleMuscleUp&hl=en)
 <br/>
 
-Idle Muscle Up
+I've developed this game for **The Game Circle** and we achieved quite an impressive results. It has very good game metrics. We published the game on Play Store but it has cross-platform support like rendering and input. It even has gamepad support. So we'll probably publish it on other platforms too!
