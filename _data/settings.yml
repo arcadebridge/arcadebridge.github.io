@@ -11,8 +11,9 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Click', url: 'proj-1'}
 - {name: 'Click', url: 'proj-2'}
+- {name: 'Click', url: 'proj-1'}
+- {name: 'Click', url: 'proj-6'}
 - {name: 'Click', url: 'proj-3'}
 - {name: 'Click', url: 'proj-4'}
 
@@ -22,7 +23,7 @@ projects:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Arcade Bridge is a software company who specializes on game development. We make games and publish tools on multiple stores. Some of our tools are Hypercasual Runner Starter Kit and Hypercasual Arcade Idle Starter Kit. You can find both of them in the Unity Asset Store.'
+  description: 'Arcade Bridge is a software company that specializes in game development. We make games and publish tools on multiple stores. Some of our tools are the Hypercasual Runner Starter Kit and the Hypercasual Arcade Idle Engine. You can find both of them in the Unity Asset Store.'
   rel-author: ''
   rel-publisher: ''
 
