@@ -2,7 +2,7 @@
 layout: post
 title: 'Idle Muscle Up'
 ---
-
+![screenshot](/assets/img/projects/proj-6/thumbnail.jpg)
 [**Store Link**](https://play.google.com/store/apps/details?id=com.GameCircle.IdleMuscleUp&hl=en)
 <br/>
 
